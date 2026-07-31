@@ -56,7 +56,6 @@ export default function Access() {
           </div>
 
           <p className="mt-3 text-xs text-black/40">
-            ※住所や地図リンクは後から簡単に変更できます（設定ファイルにまとめています）
           </p>
         </div>
       </div>
