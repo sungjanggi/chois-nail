@@ -21,7 +21,7 @@ export const siteConfig = {
     heading: "ACCESS",
     // ✅ Address is intentionally easy to edit here
     addressLines: ["〒323-0029", "栃木県 小山市 城北2-8-1"],
-    businessHours: "10:00〜19:00",
+    businessHours: "09:30〜19:00",
 
     // Optional. If you don't want to show holidays yet, set to "".
     holidays: "",
