@@ -1,7 +1,6 @@
 export const siteConfig = {
   brand: {
     name: "CHOI'S",
-    subtitle: "  ",
     tagline: "あなたの選択が、指先の美しさになる。",
   },
 
